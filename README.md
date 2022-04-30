@@ -2,6 +2,8 @@
 
 # Repo Reference
 -  [Video Reference](https://youtu.be/xXfI6hIOJ3I)
+# Repo to study from:
+-  [Programming-Languages-and-Object-Oriented-Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/README.md)
 
 # Basics:
 - Statements
