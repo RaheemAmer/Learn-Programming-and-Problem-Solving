@@ -1,4 +1,6 @@
-<h1 align="center" size="1"> How to learn programming? </p>
+<hr>
+<h1 align="center"> How to learn programming? </h1>
+<hr>
 
 # Basics:
 - Statements
