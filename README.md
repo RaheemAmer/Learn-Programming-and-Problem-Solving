@@ -56,6 +56,8 @@
 - Clone multi functions apps 
 
 <hr>
+<h1 align="center"> Resources </h1>
+<hr>
 
 # Repo Reference
 -  [Video Reference](https://youtu.be/xXfI6hIOJ3I)
