@@ -1,12 +1,5 @@
 <h1 align="center" size="1"> How to learn programming? </p>
 
-# Repo Reference
--  [Video Reference](https://youtu.be/xXfI6hIOJ3I)
-# Repo to study from:
--  [Programming-Languages-and-Object-Oriented-Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/README.md)
-# Cool articles:
--  [master-while-traveling-in-the-dom-desert](https://levelup.gitconnected.com/becoming-a-js-eventlistener-master-while-traveling-in-the-dom-desert-e6f93226064e)
-
 # Basics:
 - Statements
 - Blocks
@@ -61,3 +54,12 @@
 
 # Multiple Functions App:
 - Clone multi functions apps 
+
+<hr>
+
+# Repo Reference
+-  [Video Reference](https://youtu.be/xXfI6hIOJ3I)
+# Repo to study from:
+-  [Programming-Languages-and-Object-Oriented-Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training/blob/main/README.md)
+# Cool articles:
+-  [master-while-traveling-in-the-dom-desert](https://levelup.gitconnected.com/becoming-a-js-eventlistener-master-while-traveling-in-the-dom-desert-e6f93226064e)
