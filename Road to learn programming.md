@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center"> How to learn programming? </h1>
+<h1 align="center"> Road to learn programming </h1>
 <hr>
 
 # Basics:
