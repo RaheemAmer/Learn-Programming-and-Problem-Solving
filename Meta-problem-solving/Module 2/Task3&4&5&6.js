@@ -4,7 +4,7 @@
 
 //Check if the current word[i] is equal to the value of match.
 
-function checkMatch(word, match) {
+function letterFinder(word, match) {
     for (i = 0; i < word.length; i++) {
         console.log("Index " + i + " ,The letter is " + word[i]);
         if (match === word.charAt(i)) {
@@ -15,4 +15,4 @@ function checkMatch(word, match) {
         }
     }
 }
-checkMatch("test", "t");
+letterFinder("test", "t");
