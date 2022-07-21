@@ -10,6 +10,9 @@ function checkMatch(word, match) {
         if (match === word.charAt(i)) {
             console.log(`the current word: ${word[i]} is equal to the value of match: ${i}`);
         }
+        else {
+            console.log(`The value of match: ${i} hasn't been matched`);
+        }
     }
 }
-checkMatch("raheem", "a");
+checkMatch("test", "t");
